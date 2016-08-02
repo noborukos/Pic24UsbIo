@@ -11,7 +11,14 @@ PIC側<br>
 MPLAB X IDE v3.35 + XC16(v1.23) + PICKit3<br>
 Windows側<br>
 Microsoft Visual C# 2010 Express<br>
+<br>
+<br>
 </p>
 <p>
-Windowsアプリスクリーンショット<br>
-<img src="./image/image1.png><br>
+Windowsアプリケーション・スクリーンショット<br>
+<img src="image/image1.png"><br>
+</p>
+<p>
+試作基板<br>
+<img src="image/image2.png" width="512"><br>
+</p>
