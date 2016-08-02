@@ -12,3 +12,6 @@ MPLAB X IDE v3.35 + XC16(v1.23) + PICKit3<br>
 Windows側<br>
 Microsoft Visual C# 2010 Express<br>
 </p>
+<p>
+Windowsアプリスクリーンショット<br>
+<img src="./image/image1.png><br>
