@@ -3,7 +3,7 @@
 <p>
 PIC24FJ64GB002を使ってUSB経由でLEDの制御、スイッチの読み取りを行う<br>
 PICには２個のプッシュスイッチ入力、１個のA/D入力、４個のＬＥＤ出力、１個のＲＧＢ－ＬＥＤ（３個のＰＷＭ出力）を用意<br>
-<a href="http://www.microchip.com/ja/mplab/microchip-libraries-for-applications">
+<a href="http://www.microchip.com/ja/mplab/microchip-libraries-for-applications" target="_blank">
 マイクロチップ社で公開されているMLA</a>の\apps\usb\device\hid_customを流用<br>
 </p>
 <p>
